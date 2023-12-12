@@ -1,5 +1,7 @@
 <h1 align="center">Hello there.<br /> <img align="center" src="./assets/images/hellothere.jpg" height="100px" /></h1>
 
+---
+
 [![GitHub](https://img.shields.io/badge/GitHub%20Landing-gray?style=for-the-badge&logo=github&logoColor=white)](https://krunk-juice.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-ta)
 
