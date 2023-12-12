@@ -1,5 +1,10 @@
 <h1 align="center">Hello there.<br /> <img align="center" src="./assets/images/hellothere.jpg" height="100px" /></h1>
 
+<div align="center">
+  <a><img src="https://img.shields.io/badge/Landing-seagreen?style=for-the-badge&logo=github&logoColor=white" />https://krunk-juice.github.io</a>
+  <a><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)" />https://www.linkedin.com/in/chris-ta</a>
+</div>
+
 [![GitHub](https://img.shields.io/badge/Landing-seagreen?style=for-the-badge&logo=github&logoColor=white)](https://krunk-juice.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-ta)
 
